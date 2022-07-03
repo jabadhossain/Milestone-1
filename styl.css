@@ -1,0 +1,39 @@
+
+
+.shamim{
+color: red;
+
+}
+h1{
+    font-size: 50px;
+}
+section{
+    display: flex;
+}
+.img1{
+    padding-right: 100px;
+}
+.top{
+    padding-left: 100px;
+    padding-right: 200px;
+}
+
+p{
+    font-size: 30px;
+}
+h3{
+    font-size: 35px;
+}
+.box1{
+    background-image: url(top-banner.png);
+    background-repeat: no-repeat;
+}
+.alt{
+    text-decoration: none;
+    background-image:linear-gradient(tomato, orange);
+    border-radius: 10px;
+    padding: 10px 50px;
+    color: white;
+    font-weight:700;
+font-size: 20px;
+}

@@ -1,13 +1,14 @@
 
 
 .shamim{
-color: red;
+color: tomato;
 
 }
 h1{
     font-size: 50px;
 }
-section{
+
+.flex-container{
     display: flex;
    margin-bottom: 100px;
 }
@@ -52,3 +53,40 @@ background-position: right;
     padding-left: 300px;
     padding-right: 100px;
 }
+.experience{
+    display: flex;   
+    background-image: url(exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.developer{
+    width: 40%;
+    margin-right: 5%;
+    margin-left: 5%;
+    padding-left: 20px;
+    box-shadow: 10px 10px 40px rgb(117, 43, 9);
+    
+}
+#Full-Stack{
+    border-radius: 10px;
+    border-left: 10px solid;
+    border-image: linear-gradient(blue, red);
+    border-image-slice: 1;
+}
+#Baby{
+    border-radius: 10px;
+    border-left: 10px solid;
+    border-image: linear-gradient(pink, purple);
+    border-image-slice: 1;
+}
+footer{
+   text-align: center;
+   color: white;
+    background-color: black;
+  height: 100px;
+  width: 1000px;
+  margin-left: 500px;
+  margin-top: 50px;
+padding-top: 30px;
+}
+

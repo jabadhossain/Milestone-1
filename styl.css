@@ -9,6 +9,7 @@ h1{
 }
 section{
     display: flex;
+   margin-bottom: 100px;
 }
 .img1{
     padding-right: 100px;
@@ -36,4 +37,18 @@ h3{
     color: white;
     font-weight:700;
 font-size: 20px;
+}
+
+.img2{
+padding-left: 100px;
+
+}
+.box2{
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+background-position: right;
+}
+.dream{
+    padding-left: 300px;
+    padding-right: 100px;
 }
